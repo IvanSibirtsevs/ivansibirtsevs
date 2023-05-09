@@ -1,7 +1,7 @@
 # 💫 About Me:
 Data analyst with experience in marketing and resource planning backed by a solid knowledge of SQL, Python, Tableau, and Excel. <br>
 
-[![kaggle](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/sibirtsevivan)
+[![kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/sibirtsevivan)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Pupok#3025) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007237002888) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sibirtsevivan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sibirtsev/) 
 
